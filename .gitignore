@@ -1,0 +1,9 @@
+/build
+/References
+/esp-idf
+/sdkconfig
+/.vscode
+/esptest/build
+/esptest/main/FreeRTOS
+/esptest/.vscode/settings.json
+/esptest/sdkconfig
